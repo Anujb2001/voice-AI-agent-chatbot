@@ -18,8 +18,8 @@ Speech Chat Agent is a React application that enables users to interact with an 
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/speech-chat-agent.git
-   cd speech-chat-agent
+   git clone https://github.com/Anujb2001/voice-AI-agent-chatbot.git
+   cd voice-AI-agent-chatbot
    ```
 2. Install dependencies:
    ```sh
